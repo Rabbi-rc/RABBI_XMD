@@ -98,7 +98,7 @@ zokou({
 
     if (responseData && responseData.code) {
       const pairingCode = responseData.code;
-      const messageContent = "Your pairing code is: *" + pairingCode + "*\nUse it to link your WhatsApp within the next minute before it expires.\nHappy bot deployment!!!\n\n> *POWERED BY andbad*";
+      const messageContent = "Your pairing code is: *" + pairingCode + "*\nUse it to link your WhatsApp within the next minute before it expires.\nHappy bot deployment!!!\n\n> *POWERED BY 𝐑𝐚𝐛𝐛𝐢*";
       
       await respond(messageContent);
     } else {
@@ -266,7 +266,7 @@ zokou({
   } = _0x2c2713;
   try {
     if (!_0xea7c04 || _0xea7c04.length === 0x0) {
-      return _0x5e569a("Hello am *FLASH-MD.* an AI developed by ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞.\n\n What help can I offer you today?");
+      return _0x5e569a("Hello am *FLASH-MD.* an AI developed by ✞𓊈𒆜 𝐑𝐚𝐛𝐛𝐢.\n\n What help can I offer you today?");
     }
     const _0x1a05b7 = _0xea7c04.join(" ");
     const _0x1665a8 = await fetch('https://widipe.com/gemini?text=' + _0x1a05b7);
@@ -278,7 +278,7 @@ zokou({
         'name': "cta_url",
         'buttonParamsJson': JSON.stringify({
           'display_text': "SUBSCRIBE 🤍 CHANNEL",
-          'url': "https://www.youtube.com/@Kypher_tech"
+          'url': "https://www.youtube.com/@rabbi.world.official"
         })
       }];
       if (_0x2c0cf9) {
@@ -303,7 +303,7 @@ zokou({
                   'text': _0x17c283
                 }),
                 'footer': proto.Message.InteractiveMessage.Footer.create({
-                  'text': "> *POWERED BY ANDBAD*"
+                  'text': "> *POWERED BY RABBI*"
                 }),
                 'header': proto.Message.InteractiveMessage.Header.create({
                   'title': '',
@@ -333,7 +333,7 @@ zokou({
                   'text': _0x17c283
                 }),
                 'footer': proto.Message.InteractiveMessage.Footer.create({
-                  'text': "> *POWERED BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞*"
+                  'text': "> *POWERED BY RABBI*"
                 }),
                 'header': proto.Message.InteractiveMessage.Header.create({
                   'title': '',
@@ -382,7 +382,7 @@ zokou({
 zokou({
   'nomCom': "best-wallp",
   'aliases': ['bestwal', "best", 'bw'],
-  'reaction': '🙌',
+  'reaction': '✅️',
   'categorie': "PICS"
 }, async (_0x163980, _0x17dc05, _0x2ec021) => {
   const {
@@ -397,7 +397,7 @@ zokou({
     'image': {
       'url': _0x4353fb
     },
-    'caption': "*POWERED BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_XMD𒆜𓊉 ✞*"
+    'caption': "*POWERED BY RABBI*"
   };
   return await _0x17dc05.sendMessage(_0x163980, _0x492d96, {
     'quoted': _0x169974
@@ -420,7 +420,7 @@ zokou({
     'image': {
       'url': _0x16084b
     },
-    'caption': "*POWERED BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞*"
+    'caption': "*POWERED BY RABBI*"
   };
   return await _0x1dbc66.sendMessage(_0x22529c, _0x1870da, {
     'quoted': _0x22b058
@@ -443,7 +443,7 @@ zokou({
     'image': {
       'url': _0x37756c
     },
-    'caption': "*POWERED BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞*"
+    'caption': "*POWERED BY RABBI*"
   };
   return await _0x517574.sendMessage(_0x46a77f, _0x2df8b4, {
     'quoted': _0x121316
@@ -470,7 +470,7 @@ zokou({
     const _0x129939 = _0x23f003.result[0x0].name;
     const _0x38f95e = _0x23f003.result[0x0].time;
     const _0x3332e9 = _0x23f003.result[0x0].timeZone;
-    await _0x10e76d("Live Time in *" + _0x129939 + "* Stats:\n\n*Date & Time:* " + _0x38f95e + "\n*TimeZone:* " + _0x3332e9 + "\n\n> *POWERED BY ANDBAD-MD*");
+    await _0x10e76d("Live Time in *" + _0x129939 + "* Stats:\n\n*Date & Time:* " + _0x38f95e + "\n*TimeZone:* " + _0x3332e9 + "\n\n> *POWERED BY RABBI*");
   } catch (_0x5b8cd2) {
     _0x10e76d("That country name is incorrect!");
   }
@@ -525,7 +525,7 @@ zokou({
       'image': {
         'url': _0x430f88
       },
-      'caption': "*Enhanced by ANDBAD*"
+      'caption': "*Enhanced by RABBI*"
     }, {
       'quoted': _0x4960a2
     });
@@ -551,7 +551,7 @@ zokou({
 });
 zokou({
   'nomCom': "truth",
-  'reaction': '🤩',
+  'reaction': '✅️',
   'categorie': 'Fun'
 }, async (_0x52257e, _0x544d31, _0x279cb5) => {
   const {
@@ -579,7 +579,7 @@ zokou({
     const _0x3271b7 = await _0x44935c.json();
     if (_0x3271b7 && _0x3271b7.status === 0xc8 && _0x3271b7.result) {
       const _0x4c0027 = _0x3271b7.result;
-      const _0x38b364 = "\n*APPLE NEWS:*\n\n\n- *Title:* " + _0x4c0027.title + "\n\n- *Description:* " + _0x4c0027.desc.split("\n")[0x0] + "...\n- *Read More:* " + _0x4c0027.link + "\n\n\n> Powered by *©ANDBAD*";
+      const _0x38b364 = "\n*APPLE NEWS:*\n\n\n- *Title:* " + _0x4c0027.title + "\n\n- *Description:* " + _0x4c0027.desc.split("\n")[0x0] + "...\n- *Read More:* " + _0x4c0027.link + "\n\n\n> Powered by *©RABBI*";
       const _0x3c13a7 = _0x4c0027.images.find(_0x5d3e5c => _0x5d3e5c && _0x5d3e5c !== 'https://images.macrumors.com/images-new/1x1.trans.gif');
       if (_0x3c13a7) {
         await _0x26a27f.sendMessage(_0x144eea, {
@@ -620,7 +620,7 @@ zokou({
     const _0x519fed = await _0x1fd2f2.json();
     if (_0x519fed && _0x519fed.status === 0xc8 && _0x519fed.result) {
       const _0x25ee7e = _0x519fed.result;
-      const _0x500db0 = "\n* NASA NEWS:*\n\n\n- *Title:* " + _0x25ee7e.title + "\n\n- *Date:* " + _0x25ee7e.date + "\n\n- *Description:* " + _0x25ee7e.explanation.split("\n")[0x0] + "...\n\n\n> Powered by *©ANDBAD*";
+      const _0x500db0 = "\n* NASA NEWS:*\n\n\n- *Title:* " + _0x25ee7e.title + "\n\n- *Date:* " + _0x25ee7e.date + "\n\n- *Description:* " + _0x25ee7e.explanation.split("\n")[0x0] + "...\n\n\n> Powered by *©RABBI*";
       const _0x223fd9 = _0x25ee7e.url;
       if (_0x223fd9) {
         await _0x4cf3db.sendMessage(_0x35ed94, {
@@ -661,7 +661,7 @@ zokou({
     const _0x3c2f41 = await _0x3a8ab8.json();
     if (_0x3c2f41 && _0x3c2f41.status === 0xc8 && _0x3c2f41.result) {
       const _0x5d6e9b = _0x3c2f41.result;
-      const _0x157f0b = "*WORLDWIDE POPULATION DATA:*\n\n\n- *Total Population:* " + _0x5d6e9b.current.total + "\n- *Male Population:* " + _0x5d6e9b.current.male + "\n- *Female Population:* " + _0x5d6e9b.current.female + "\n- *Births This Year:* " + _0x5d6e9b.this_year.births + "\n- *Deaths This Year:* " + _0x5d6e9b.this_year.deaths + "\n- *Births Today:* " + _0x5d6e9b.today.births + "\n- *Deaths Today:* " + _0x5d6e9b.today.deaths + "\n\n\n> *Powered by ©ANDBAD*";
+      const _0x157f0b = "*WORLDWIDE POPULATION DATA:*\n\n\n- *Total Population:* " + _0x5d6e9b.current.total + "\n- *Male Population:* " + _0x5d6e9b.current.male + "\n- *Female Population:* " + _0x5d6e9b.current.female + "\n- *Births This Year:* " + _0x5d6e9b.this_year.births + "\n- *Deaths This Year:* " + _0x5d6e9b.this_year.deaths + "\n- *Births Today:* " + _0x5d6e9b.today.births + "\n- *Deaths Today:* " + _0x5d6e9b.today.deaths + "\n\n\n> *Powered by ©RABBI*";
       await _0xccbea2(_0x157f0b);
     } else {
       await _0xccbea2("No population data found.");
@@ -806,7 +806,7 @@ zokou({
         'name': "cta_url",
         'buttonParamsJson': JSON.stringify({
           'display_text': "FOLLOW 🤍 CHANNEL",
-          'url': 'https://whatsapp.com/channel/'
+          'url': 'https://whatsapp.com/channel/0029Vb1xfwQ2phHULSp4Iv3p'
         })
       }];
       if (_0x46fe6a) {
@@ -832,7 +832,7 @@ zokou({
                 'text': _0x790fb0
               }),
               'footer': proto.Message.InteractiveMessage.Footer.create({
-                'text': "> *POWERED BY ANDABAD*"
+                'text': "> *POWERED BY RABBI*"
               }),
               'header': proto.Message.InteractiveMessage.Header.create({
                 'title': '',
@@ -891,7 +891,7 @@ zokou({
       'name': 'cta_url',
       'buttonParamsJson': JSON.stringify({
         'display_text': "FOLLOW 🤍 CHANNEL",
-        'url': "https://whatsapp.com/channel/"
+        'url': "https://whatsapp.com/channel/0029Vb1xfwQ2phHULSp4Iv3p"
       })
     }];
     const _0x38e3dc = generateWAMessageFromContent(_0x4f24eb, {
@@ -906,7 +906,7 @@ zokou({
               'text': _0x5013c0
             }),
             'footer': proto.Message.InteractiveMessage.Footer.create({
-              'text': "> *POWERED BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞*"
+              'text': "> *POWERED BY Rabbi*"
             }),
             'header': proto.Message.InteractiveMessage.Header.create({
               'title': '',
