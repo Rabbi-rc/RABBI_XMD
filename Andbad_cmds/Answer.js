@@ -59,7 +59,7 @@ zokou({
       thumbnail: _0x1f79b5,
       news: _0x2169c4
     } = _0x530892;
-    const _0x5aa232 = "*TECH NEWS*\n\n" + _0x2169c4 + "\n\n*Powered Rabbi*";
+    const _0x5aa232 = "*TECH NEWS*\n\n" + _0x2169c4 + "\n\n*Powered by Rabbi*";
     await _0x5d2c66.sendMessage(_0x23cfcf, {
       'image': {
         'url': _0x1f79b5
