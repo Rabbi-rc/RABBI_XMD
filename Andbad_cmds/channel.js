@@ -34,21 +34,21 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-POWERED BY KYPHER_XMD CREATORS
+POWERED BY RABBI_XMD CREATORS
 ╭─────────────────
 │❒⁠⁠⁠⁠╭─────────────
-│❒⁠⁠⁠⁠│▸ *THIS ARE KYPHER GROUP LINKS* 
+│❒⁠⁠⁠⁠│▸ *THIS ARE RABBI GROUP LINKS* 
 │❒⁠⁠⁠⁠│▸ *CHANNELS* 
 │❒⁠⁠⁠⁠│▸ *GROUPS*
 │❒⁠⁠⁠⁠╰──────────────
-│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m
-│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VanspvdLtOj55DG0t82Y
+│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029Vb1xfwQ2phHULSp4Iv3p
+│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029Vb1xfwQ2phHULSp4Iv3p
 │❒⁠⁠⁠⁠│▸
 │❒⁠⁠⁠⁠│▸ 
-│❒⁠⁠⁠⁠│▸ GROUP: https://chat.whatsapp.com/BO1RVKMAatT7QldEGMvhYd
+│❒⁠⁠⁠⁠│▸ GROUP: 
 │❒⁠⁠⁠⁠│▸
 │❒⁠⁠⁠⁠│
-│❒⁠⁠⁠⁠│▸          ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT𒆜𓊉 ✞
+│❒⁠⁠⁠⁠│▸          𝐑𝐀𝐁𝐁𝐈_TECH_SUPPORT
 │❒⁠⁠⁠⁠│▸ 
 │❒⁠⁠⁠⁠│▸
 │❒⁠⁠⁠⁠│▸ *MAKE SURE YOU HAVE JOINED THIS GROUPS*
@@ -58,7 +58,7 @@ POWERED BY KYPHER_XMD CREATORS
   `;
     
 let menuMsg = `
-     MADE EASY BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞
+     MADE EASY BY ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
 
 ❒────────────────────❒`;
 
