@@ -130,7 +130,7 @@ zokou({
     const response = await axios.get(`http://www.omdbapi.com/?apikey=742b2d09&t=${arg}&plot=full`);
     const imdbData = response.data;
 
-    let imdbInfo = "🅂🄴🄲🅁🄴🅃 🄼🄾🅅🄸🄴🅂 🄵🅁🄾🄼 🄼🅁 🄰🄽🄳🄱🄰🄳 🄼🄳\n";
+    let imdbInfo = "🅂🄴🄲🅁🄴🅃 🄼🄾🅅🄸🄴🅂 🄵🅁🄾🄼 🄼🅁 𝐑𝐚𝐛𝐛𝐢\n";
     imdbInfo += " ``` 🄼🄾🅅🄸🄴```\n";
     imdbInfo += "*🅷🅴🆁🅴 🆈🅾🆄🆁🅴 🅼🅾🆅🅸🅴*\n";
     imdbInfo += "🎬Title    : " + imdbData.Title + "\n";
