@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *KYPHER26*`
+ *RABBI*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -71,14 +71,14 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("*KYPHER_XMD IS ALIVE FOR A LIFE TIME*") ; return};
+        if(!superUser) { repondre("*RABBI_XMD IS ALIVE FOR A LIFE TIME*") ; return};
 
-      await   repondre("KYPHER_XMD IS ALIVE AT THE MOMMENT DEPLOY IT NOW AND ENJOY");
+      await   repondre("RABBI_XMD IS ALIVE AT THE MOMMENT DEPLOY IT NOW AND ENJOY");
          repondre("don't do fake thinks :)")
      }
  } else {
 
-    if(!superUser) { repondre ("KYPHER_XMD ONLY") ; return};
+    if(!superUser) { repondre ("RABBI_XMD ONLY") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' FUCK YOU IF YOU DONT FORK THIS BOT. ')
+repondre(' F*CK YOU IF YOU DONT FORK THIS BOT. ')
 
 }
     });
