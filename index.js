@@ -47,7 +47,7 @@ const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/KYPHER_XMD;;;/g,"");
+var session = conf.session.replace(/RABBI_XMD;;;/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{Kypher_xmd}...[][]");
+            console.log("\t [][]...{Rabbi_xmd}...[][]");
             console.log("=========== Nouveau message ===========");
             if (verifGroupe) {
                 console.log("message provenant du groupe : " + nomGroupe);
@@ -812,16 +812,16 @@ ${metadata.desc}`;
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ KYPHER_XMD CONNECTING...");
+                console.log("ℹ️ RABBI_XMD CONNECTING...");
             }
             else if (connection === 'open') {
-                console.log("✅ kypher_xmd Connection Established! ☺️");
+                console.log("✅ rabbi_xmd Connection Established! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("kypher xmd is Online 🕸\n\n");
+                console.log("rabbi xmd is Online 🕸\n\n");
                 //chargement des commandes 
                 console.log("Loading Commands ...\n");
                 fs.readdirSync(__dirname + "/Andbad_cmds").forEach((fichier) => {
@@ -855,11 +855,11 @@ ${metadata.desc}`;
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
 ╔════◇
-║ 『KYPHER-XMD CONNECTED』
+║ 『RABBI_XMD CONNECTED』
 ║    Prefix : [ ${prefixe} ]
 ║    Mode :${md}
 ║    Total Commands : ${evt.cm.length}︎
-║    SUPPORT KYPHER_TCH 
+║    SUPPORT RABBI_TECH 
 ╚════════════════╝`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
