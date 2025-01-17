@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────《《𝐊𝐘𝚸𝚮𝚵𝚪_𝚾𝚳𝐃》》────
+╭────《《𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃》》────
 ┴  ╭─────────────
 │❒⁠⁠⁠⁠│ *ADMIN* : ${s.OWNER_NAME}
 │❒│⁠⁠⁠⁠ *CALENDER* : ${date}
@@ -41,13 +41,13 @@ const date = moment().format('DD/MM/YYYY');
 │❒│⁠⁠⁠⁠ *ORDERS* : ${cm.length} 
 │❒│⁠⁠⁠⁠ *SPACE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒│⁠⁠⁠⁠ *CHROME* : ${os.platform()}
-│❒│⁠⁠⁠⁠ *THEME* : *ANDBADTHEME*
+│❒│⁠⁠⁠⁠ *THEME* : *RABBITHEME*
 ┬  ╰──────────────
-╰─── ··《《𝐊𝐘𝚸𝚮𝚵𝚪_𝚾𝚳𝐃》》··──\n`;
+╰─── ··《《𝐑𝐀𝐁𝐁𝐈_𝚾𝚳𝐃》》··──\n`;
     
 let menuMsg = `
  ─────────
-  𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT𒆜𓊉
+  ⨭ 𝐑𝐀𝐁𝐁𝐈 𝐓𝐄𝐂𝐇 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⨮
  ─────────
 
 
@@ -66,7 +66,7 @@ let menuMsg = `
 
     menuMsg += `
 
-|⏣𝚩𝚯𝚻 𝐂𝚪𝚵𝚫𝚻𝚵𝐃 𝚩𝐘_𝐊𝐘𝚸𝚮𝚵𝚪_ ✞
+|⏣𝚩𝚯𝚻 𝐂𝚪𝚵𝚫𝚻𝚵𝐃 𝚩𝐘_𝐑𝐀𝐁𝐁𝐈_ ⨮
 *❒⁠⁠⁠⁠—————————— ❒⁠⁠⁠⁠——————————❒⁠⁠⁠⁠*
 `;
 
