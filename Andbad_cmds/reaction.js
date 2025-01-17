@@ -101,3 +101,5 @@ generateReactionCommand("wink", "😉");
 generateReactionCommand("poke", "👉");
 generateReactionCommand("dance", "💃");
 generateReactionCommand("cringe", "😬");
+generateReactionCommand("done", "✅️");
+generateReactionCommand("no", "❌️");
