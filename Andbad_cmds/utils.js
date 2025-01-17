@@ -6,7 +6,7 @@ function delay(ms) {
 
 async function loading (dest, zk) {
 var lod = [
-⏳ kypher_xmd loading...
+⏳ rabbi_xmd loading...
 🌑 [□□□□□□□□□□] 0%
 🌒 [████□□□□□□] 20%
 🌓 [██████□□□] 40%
