@@ -35,8 +35,8 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭──────────────────────╮  
-│        🚀  *KYPHER_XMD*       │  
-│  𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT_ 𒆜𓊉  │  
+│        🚀  *RABBI_XMD*       │  
+│  ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮          │  
 ╰──────────────────────╯  
 
 ╭━━━━━❰ *AVAILABLE MENUS* ❱━━━╮  
@@ -47,7 +47,7 @@ const date = moment().format('DD/MM/YYYY');
 ┃ ❒  🔌 ▸ *PLUGINS*  : ${cm.length}   
 ┃ ❒  💾 ▸ *RAM*      : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}    
 ┃ ❒  🖥️  ▸ *SAVER*    : ${os.platform()}         
-┃ ❒  🎨 ▸ *THEME*    : _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT_𒆜    
+┃ ❒  🎨 ▸ *THEME*    : _𝐑𝐀𝐁𝐁𝐈_TECH_SUPPORT_    
 ╰━━━━━━━━━━━━━━━━━━━━━━━━╯ 
 
 📌 _*Type the command to proceed.*_  
@@ -70,14 +70,14 @@ let menuMsg = `
 ╰────────────···▸▸ \n`
     }
 
-    menuMsg += `> 𝚩𝚯𝚻 𝐂𝚪𝚵𝚫𝚻𝚵𝐃 𝚩𝐘 𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉
+    menuMsg += `> 𝚩𝚯𝚻 𝐂𝚪𝚵𝚫𝚻𝚵𝐃 𝚩𝐘 ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
 `;
 
    var lien = mybotpic();
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *K Y P H E R*, déveloper 𝐊 𝐘 𝚸 𝚮 𝚵 𝚪-𝚻 𝚵 𝐂 𝚮" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *R A B B I*, déveloper ⨭ 𝐑𝐀𝐁𝐁𝐈 𝐓𝐄𝐂𝐇 ⨮" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
