@@ -15,10 +15,10 @@ zokou({nomCom : "instagram" , categorie : "Download"},async (dest , zk , command
     let igvid = await axios('https://vihangayt.me/download/instagram?url='+link)
 
     if (igvid.data.data.data[0].type == 'video') {
-    zk.sendMessage(dest,{video : {url : igvid.data.data.data[0].url},caption : "ig video downloader powered by *Bmw-Md*",gifPlayback : false },{quoted : ms}) 
+    zk.sendMessage(dest,{video : {url : igvid.data.data.data[0].url},caption : "ig video downloader powered by *Rabbi-Md*",gifPlayback : false },{quoted : ms}) 
     }
     else {
-        zk.sendMessage(dest,{image : {url : igvid.data.data.data[0].url},caption : "ig image downloader powered by *Bmw-Md*"})
+        zk.sendMessage(dest,{image : {url : igvid.data.data.data[0].url},caption : "ig image downloader powered by *Rabbi-Md*"})
     }
   
   } catch (e) {repondre("erreur survenue lors du téléchargement \n " + e)}
@@ -49,7 +49,7 @@ async (dest, zk, commandeOptions) => {
         Lien: ${result.url}
       `;
        zk.sendMessage(dest,{image : { url : result.thumbnail}, caption : caption},{quoted : ms}) ;
-       zk.sendMessage(dest, { video: { url: result.hd  }, caption: 'facebook video downloader powered by *KYPHER_XMD*' }, { quoted: ms });
+       zk.sendMessage(dest, { video: { url: result.hd  }, caption: 'facebook video downloader powered by *RABBI_XMD*' }, { quoted: ms });
       
     })
     .catch((error) => {console.log("Error:", error)
@@ -113,7 +113,7 @@ async (dest, zk, commandeOptions) => {
         Lien: ${result.url}
       `;
        zk.sendMessage(dest,{image : { url : result.thumbnail}, caption : caption},{quoted : ms}) ;
-       zk.sendMessage(dest, { video: { url: result.sd  }, caption: 'facebook video downloader powered by *KYPHER_XMD*' }, { quoted: ms });
+       zk.sendMessage(dest, { video: { url: result.sd  }, caption: 'facebook video downloader powered by *RABBI_XMD*' }, { quoted: ms });
       
     })
     .catch((error) => {console.log("Error:", error)
