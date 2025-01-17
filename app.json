@@ -1,9 +1,9 @@
 {
-  "name":"KYPHER_XMD",
-  "description":"Deploy now your bot, KYPHER_XMD was developed by KYPHER himself.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "name":"RABBI_XMD",
+  "description":"Deploy now your bot, RABBI_XMD was developed by RABBI himself. Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/l6e183.jpeg",
-  "repository":"https://github.com/KYPHER26/KYPHER_XMD",
+  "repository":"https://github.com/Rabbi-rc/RABBI_XMD.git",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "KYPHER"
+    "value": "RABBI"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255760266629"
+    "value": "255786269776"
   },
     "WARN_COUNT":
   {
