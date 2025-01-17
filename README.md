@@ -1,5 +1,5 @@
-# KYPHER_XMD 👋
-WHATSAPP BOT CREATED BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞
+# RABBI_XMD 👋
+WHATSAPP BOT CREATED BY ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
 
     ➕ EASY COMMUNICATION ➕
   ![Image Alt](https://files.catbox.moe/kwi2pa.jpg)
@@ -7,7 +7,7 @@ WHATSAPP BOT CREATED BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                              𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_XMD𒆜𓊉
+<p align="center">                                              ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
 
 
 </p>
@@ -19,7 +19,7 @@ WHATSAPP BOT CREATED BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_XMD𒆜𓊉-+CREATED+BY+KYPHER+➕✖️" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮-+CREATED+BY+RABBI+➕✖️" alt="Typing SVG" /></a>
 
 
 
@@ -52,17 +52,17 @@ WHATSAPP BOT CREATED BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞
   - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KYPHER26/KYPHER_XMD"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-   OTHER DEPLOYMENT PLATFORMS COMING... STAY TUNED 😉
+   OTHER DEPLOYMENT PLATFORMS ARE COMING... STAY TUNED 😉
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
   ## CONTACT 
-  [`WA channel`](https://whatsapp.com/channel/0029VanspvdLtOj55DG0t82Y)
+  [`WA channel`](https://whatsapp.com/channel/0029Vb1xfwQ2phHULSp4Iv3p)
 
- [`contact_me`](https://Wa.me/255760266629)
+ [`contact_me`](https://wa.me/message/UQTR42EACZ7BI1)
 
- [`Youtube channel`](https://www.youtube.com/@Kypher_tech)
+ [`Youtube channel`](https://www.youtube.com/@rabbi.world.official)
 
 
     
