@@ -41,16 +41,16 @@ const date = moment().format('DD/MM/YYYY');
 │❒⁠⁠⁠⁠│▸ *GROUP* 
 │❒⁠⁠⁠⁠│▸ *REPO*
 │❒⁠⁠⁠⁠╰──────────────
-│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VanspvdLtOj55DG0t82Y
-│❒⁠⁠⁠⁠│▸ *GROUP* : https://chat.whatsapp.com/BO1RVKMAatT7QldEGMvhYd
-│❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/KYPHER26/KYPHER_XMD
-│❒⁠⁠⁠⁠│▸ *YTUBE* : https://www.youtube.com/@Kypher_tech
+│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029Vb1xfwQ2phHULSp4Iv3p
+│❒⁠⁠⁠⁠│▸ *GROUP* :
+│❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/Rabbi-rc/RABBI_XMD.git
+│❒⁠⁠⁠⁠│▸ *YTUBE* : https://www.youtube.com/@rabbi.world.official
 │❒⁠⁠⁠⁠╰──────────────
 ╰──────────────────\n─
   `;
     
 let menuMsg = `
-     > KYPHER TECH TEAM
+     > RABBI TECH TEAM
 
 ❒────────────────────❒`;
     
