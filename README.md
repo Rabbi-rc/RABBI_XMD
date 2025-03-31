@@ -6,10 +6,18 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+<p align="center">
+   WHATSAPP BOT CREATED BY 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃
 
-    WHATSAPP BOT CREATED BY ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
+   
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+<p align="center">
     ➕ EASY COMMUNICATION ➕
+
+ 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
   ![Image Alt](https://i.ibb.co/VWr5Zr4J/4ed6779c1a7e.jpg)
 
 <a><img src='https://i.ibb.co/gMwJX8XK/18d6848e8aa7.jpg'/></a><a><img src=''/></a>
