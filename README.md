@@ -57,12 +57,11 @@ WHATSAPP BOT CREATED BY ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-  ## CONTACT 
-  [`WA channel`](https://whatsapp.com/channel/0029Vb1xfwQ2phHULSp4Iv3p)
+  ## 🌍 Connect With Me
 
- [`contact_me`](https://wa.me/message/UQTR42EACZ7BI1)
-
- [`Youtube channel`](https://www.youtube.com/@rabbi.world.official)
+[![WhatsApp Channel](https://whatsapp.com/channel/0029Vb1xfwQ2phHULSp4Iv3p)](https://whatsapp.com/channel/your-channel)
+[![YouTube](https://www.youtube.com/@rabbi.world.official)](https://youtube.com/your-channel)
+[![WhatsApp](https://wa.me/message/PO5R6CO7HDJQD1)](https://wa.me/yournumber)
 
 
     
