@@ -1,8 +1,13 @@
----
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <p align="center">
-# RABBI_XMD 👋
-    ---
-WHATSAPP BOT CREATED BY ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
+ RABBI_XMD 👋
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+    WHATSAPP BOT CREATED BY ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
 
     ➕ EASY COMMUNICATION ➕
   ![Image Alt](https://i.ibb.co/VWr5Zr4J/4ed6779c1a7e.jpg)
@@ -22,7 +27,7 @@ WHATSAPP BOT CREATED BY ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮-+CREATED+BY+RABBI+➕✖️" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮-+CREATED+BY+RABBI" alt="Typing SVG" /></a>
 
 
 
