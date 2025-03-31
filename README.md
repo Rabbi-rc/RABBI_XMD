@@ -66,4 +66,11 @@ WHATSAPP BOT CREATED BY ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/PO5R6CO7HDJQD1)
 
 
+
+
     
+---
+<p align="center">
+  © 2025 <strong>RABBI_XMD</strong><br>
+  <em>"𝐑𝐄𝐅𝐔𝐓𝐄 𝐓𝐇𝐄 𝐅𝐈𝐀𝐒𝐂𝐎"</em>
+</p>
