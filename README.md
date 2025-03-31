@@ -2,7 +2,7 @@
 WHATSAPP BOT CREATED BY ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
 
     ➕ EASY COMMUNICATION ➕
-  ![Image Alt](https://files.catbox.moe/kwi2pa.jpg)
+  ![Image Alt](https://i.ibb.co/MDD46Wy4/ab9d1077147a.png)
 
 <a><img src='https://i.ibb.co/MDD46Wy4/ab9d1077147a.png'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
