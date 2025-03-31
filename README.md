@@ -42,26 +42,29 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
+
 # 🛠️ SET UP
 
-<div align="center">
 
-[![FORK](https://img.shields.io/badge/FORK_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KYPHER26/KYPHER_XMD/fork)
-
-
-[![QR SCANNER](https://img.shields.io/badge/QR_SCANNER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://kypher-xmd-pair-code.onrender.com/qr)
+[![FORK NOW](https://img.shields.io/badge/✨_FORK_NOW!-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/KYPHER26/KYPHER_XMD/fork)  
+*(Required first step)*  
 
 
-[![PAIR CODE](https://img.shields.io/badge/PAIR_CODE-FF6B00?style=for-the-badge&logo=linktree&logoColor=white)](https://kypher-xmd-pair-code.onrender.com/pair)
+[![QR SCANNER](https://img.shields.io/badge/📸_QR_SCANNER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://kypher-xmd-pair-code.onrender.com/qr)
 
 
-[![RATE US](https://img.shields.io/badge/RATE_US-FFD700?style=for-the-badge&logo=star&logoColor=black)](https://github.com/KYPHER26/KYPHER_XMD/stargazers)
+[![PAIR CODE](https://img.shields.io/badge/🔗_PAIR_CODE-FF6B00?style=for-the-badge&logo=linktree&logoColor=white)](https://kypher-xmd-pair-code.onrender.com/pair)  
+
+
+[![RATE US](https://img.shields.io/badge/⭐_RATE_US-FFD700?style=for-the-badge&logo=star&logoColor=black)](https://github.com/KYPHER26/KYPHER_XMD/stargazers)
 
 </div>
 
-<p align="center">
+
   <img src="https://i.imgur.com/LyHic3i.gif" width="300">
 </p>
+
+</div>
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
