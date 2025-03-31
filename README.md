@@ -50,13 +50,13 @@
 *(Required first step)*  
 
 
-[![QR SCANNER](https://img.shields.io/badge/📸_QR_SCANNER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://rabbi-xmd-pair-code.onrender.com/qr)
+[![QR SCANNER](https://img.shields.io/badge/📸_QR_SCANNER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://rabbi-xmd.onrender.com/qr)
 
 
-[![PAIR CODE](https://img.shields.io/badge/🔗_PAIR_CODE-FF6B00?style=for-the-badge&logo=linktree&logoColor=white)](https://kypher-xmd-pair-code.onrender.com/pair)  
+[![PAIR CODE](https://img.shields.io/badge/🔗_PAIR_CODE-FF6B00?style=for-the-badge&logo=linktree&logoColor=white)](https://rabbi-xmd.onrender.com/pair)  
 
 
-[![RATE US](https://img.shields.io/badge/⭐_RATE_US-FFD700?style=for-the-badge&logo=star&logoColor=black)](https://github.com/KYPHER26/KYPHER_XMD/stargazers)
+[![RATE US](https://img.shields.io/badge/⭐_RATE_US-FFD700?style=for-the-badge&logo=star&logoColor=black)](https://github.com/Rabbi-rc/RABBI_XMD/stargazers)
 
 </div>
 
