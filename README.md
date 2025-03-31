@@ -103,5 +103,5 @@
 <p align="center">
  <strong>CREATED BY RABBI WORLD</strong><br>
  <strong>𝐑𝐄𝐅𝐔𝐓𝐄 𝐓𝐇𝐄 𝐅𝐈𝐀𝐒𝐂𝐎</strong
- © 2025 <strong>All Rights are Reserved</strong><br>
+  © 2025 <strong>All Rights are Reserved</strong><br>
 </p>
