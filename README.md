@@ -4,7 +4,7 @@ WHATSAPP BOT CREATED BY ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
     ➕ EASY COMMUNICATION ➕
   ![Image Alt](https://i.ibb.co/VWr5Zr4J/4ed6779c1a7e.jpg)
 
-<a><img src='https://i.ibb.co/gMwJX8XK/18d6848e8aa7.jpg'/></a><a><img src='https://i.ibb.co/CKQmLGfS/def07e301afe.jpg'/></a>
+<a><img src='https://i.ibb.co/gMwJX8XK/18d6848e8aa7.jpg'/></a><a><img src=''/></a>
 
 
 <p align="center">                                              ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
@@ -13,7 +13,7 @@ WHATSAPP BOT CREATED BY ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VanspvdLtOj55DG0t82Y">
-    <img alt=Support height="390" src="https://i.imgur.com/4XOl23k.jpeg"> 
+    <img alt=Support height="390" src="https://i.ibb.co/CKQmLGfS/def07e301afe.jpg"> 
     </p>
  
  
