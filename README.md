@@ -1,4 +1,7 @@
+---
+<p align="center">
 # RABBI_XMD 👋
+    ---
 WHATSAPP BOT CREATED BY ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
 
     ➕ EASY COMMUNICATION ➕
