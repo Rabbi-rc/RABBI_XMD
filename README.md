@@ -28,7 +28,7 @@
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029VanspvdLtOj55DG0t82Y">
+  <a href="https://whatsapp.com/channel/0029Vb1xfwQ2phHULSp4Iv3p">
     <img alt=Support height="390" src="https://i.ibb.co/CKQmLGfS/def07e301afe.jpg"> 
     </p>
  
