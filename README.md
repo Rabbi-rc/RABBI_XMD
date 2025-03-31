@@ -79,13 +79,7 @@
 
 2. `If You Have a Heroku Account`
 
-[![Fork Check](https://img.shields.io/badge/VERIFY_FORK-181717?style=for-the-badge&logo=github)](https://github.com/KYPHER26/KYPHER_XMD/fork)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku-deploy-verify.herokuapp.com/deploy?user=YOUR_USERNAME)
-
-🔴 **Important**:  
-1. First click **VERIFY FORK** and fork the repository  
-2. Then click **Deploy to Heroku**  
-3. When asked, enter your GitHub username exactly
 
 
    OTHER DEPLOYMENT PLATFORMS ARE COMING... STAY TUNED 😉
