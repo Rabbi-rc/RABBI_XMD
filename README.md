@@ -79,26 +79,13 @@
 
 2. `If You Have a Heroku Account`
 
-  - 
-<a id="herokuDeploy" href="#" onclick="verifyBeforeDeploy()">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+[![Fork Check](https://img.shields.io/badge/VERIFY_FORK-181717?style=for-the-badge&logo=github)](https://github.com/KYPHER26/KYPHER_XMD/fork)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku-deploy-verify.herokuapp.com/deploy?user=YOUR_USERNAME)
 
-<script>
-function verifyBeforeDeploy() {
-  const username = prompt("Enter your GitHub username to verify fork:");
-  if (username) {
-    // Check if user forked (simplified client-side check)
-    const forkUrl = `https://github.com/${username}/RABBI_XMD`;
-    window.open(forkUrl, '_blank');
-    
-    // Proceed to Heroku
-    document.getElementById('herokuDeploy').href = 
-      `https://dashboard.heroku.com/new?template=${forkUrl}`;
-    alert("If deployment fails, please confirm you've forked the repo!");
-  }
-}
-</script>
+🔴 **Important**:  
+1. First click **VERIFY FORK** and fork the repository  
+2. Then click **Deploy to Heroku**  
+3. When asked, enter your GitHub username exactly
 
 
    OTHER DEPLOYMENT PLATFORMS ARE COMING... STAY TUNED 😉
