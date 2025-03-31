@@ -46,7 +46,7 @@
 # 🛠️ SET UP
 
 
-[![FORK NOW](https://img.shields.io/badge/✨_FORK_NOW!-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/KYPHER26/KYPHER_XMD/fork)  
+[![FORK NOW](https://img.shields.io/badge/✨_FORK_NOW!-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/Rabbi-rc/RABBI_XMD/fork)  
 *(Required first step)*  
 
 
