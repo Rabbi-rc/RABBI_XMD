@@ -101,6 +101,7 @@
     
 ---
 <p align="center">
-  © 2025 <strong>RABBI WORLD All Rights are Reserved</strong><br>
+ <strong>CREATED BY RABBI WORLD</strong>strong><br>
+ © 2025 <strong>All Rights are Reserved</strong><br>
   <strong>𝐑𝐄𝐅𝐔𝐓𝐄 𝐓𝐇𝐄 𝐅𝐈𝐀𝐒𝐂𝐎</strong>
 </p>
