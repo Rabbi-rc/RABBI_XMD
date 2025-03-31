@@ -43,20 +43,21 @@
 
 
 
-# 🛠️ SET UP
+# 🛠️ SETUP
 
+## 1. Required Steps
+[![FORK NOW](https://img.shields.io/badge/✨_FORK_NOW-181717?style=for-the-badge&logo=github)](https://github.com/KYPHER26/KYPHER_XMD/fork)  
+*(Click fork button above before proceeding)*
 
-[![FORK NOW](https://img.shields.io/badge/✨_FORK_NOW!-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/Rabbi-rc/RABBI_XMD/fork)  
-*(Required first step)*  
+## 2. Connection Options
+[![QR SCANNER](https://img.shields.io/badge/📸_QR_SCANNER-25D366?style=for-the-badge&logo=whatsapp)](https://rabbi-xmd.onrender.com/qr)
+[![PAIR CODE](https://img.shields.io/badge/🔗_PAIR_CODE-FF6B00?style=for-the-badge&logo=linktree)](https://rabbi-xmd.onrender.com/pair)
 
+## 3. Feedback
+[![RATE US](https://img.shields.io/badge/⭐_RATE_US-FFD700?style=for-the-badge&logo=star)](https://github.com/KYPHER26/KYPHER_XMD/stargazers)
 
-[![QR SCANNER](https://img.shields.io/badge/📸_QR_SCANNER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://rabbi-xmd.onrender.com/qr)
+---
 
-
-[![PAIR CODE](https://img.shields.io/badge/🔗_PAIR_CODE-FF6B00?style=for-the-badge&logo=linktree&logoColor=white)](https://rabbi-xmd.onrender.com/pair)  
-
-
-[![RATE US](https://img.shields.io/badge/⭐_RATE_US-FFD700?style=for-the-badge&logo=star&logoColor=black)](https://github.com/Rabbi-rc/RABBI_XMD/stargazers)
 
 </div>
 
@@ -70,7 +71,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-#### DEPLOY TO HEROKU 
+# 🚀 DEPLOYMENT 
 1. `If You Don't Have An Account On Heroku`
 
 - <a align="center"><a href="https://signup.heroku.com">
@@ -78,7 +79,26 @@
 
 2. `If You Have a Heroku Account`
 
-  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Rabbi-rc/RABBI_XMD"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  - 
+<a id="herokuDeploy" href="#" onclick="verifyBeforeDeploy()">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
+<script>
+function verifyBeforeDeploy() {
+  const username = prompt("Enter your GitHub username to verify fork:");
+  if (username) {
+    // Check if user forked (simplified client-side check)
+    const forkUrl = `https://github.com/${username}/RABBI_XMD`;
+    window.open(forkUrl, '_blank');
+    
+    // Proceed to Heroku
+    document.getElementById('herokuDeploy').href = 
+      `https://dashboard.heroku.com/new?template=${forkUrl}`;
+    alert("If deployment fails, please confirm you've forked the repo!");
+  }
+}
+</script>
 
 
    OTHER DEPLOYMENT PLATFORMS ARE COMING... STAY TUNED 😉
