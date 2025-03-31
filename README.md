@@ -71,6 +71,6 @@ WHATSAPP BOT CREATED BY ⨭ 𝐑𝐀𝐁𝐁𝐈_𝐗𝐌𝐃 ⨮
     
 ---
 <p align="center">
-  © 2025 <strong>RABBI_XMD</strong><br>
+  © 2025 <strong>RABBI WORLD</strong><br>
   <em>"𝐑𝐄𝐅𝐔𝐓𝐄 𝐓𝐇𝐄 𝐅𝐈𝐀𝐒𝐂𝐎"</em>
 </p>
